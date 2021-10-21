@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kiranmarshall
-- 👀 I’m interested in music and sound, and now apparently I'm into coding too.
-- 🌱 I’m currently learning Javascript broadly, but narrowly React & React Native.
-- 💞️ I’m looking to collaborate on whatever I can get my grubby mitts on.
-- 📫 How to reach me: hello@kiranmarshall.com
+- 👋 Hi, I’m @kiranmarshall. My favourite things are React, Tailwind, and a lovely cuppa. 
 
 <!---
 kiranmarshall/kiranmarshall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
